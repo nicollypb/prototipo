@@ -29,7 +29,7 @@ body {
     font-size: 24px;
 }
 .filme {
-    background: linear-gradient(#030B4E,#3B4BD1);
+    background: linear-gradient(#030B4E,#17217f);
     color: white;
     display: flex;
     justify-content: center;
@@ -44,6 +44,9 @@ body {
 }
 .filme-titulo {
     padding: 24px 0;
+}
+.personagens {
+    background: linear-gradient(#17217f,#3B4BD1);;
 }
 .personagem-foto {
     width: 25%
