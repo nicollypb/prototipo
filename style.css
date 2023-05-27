@@ -26,7 +26,7 @@ body {
 .cabecalho-item {
     display: inline-block;
     margin: 0 16px;
-    font-size: 24px;
+    font-size: 12px;
 }
 .filme {
     background: linear-gradient(#030B4E,#17217f);
