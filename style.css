@@ -16,6 +16,13 @@ body {
     align-items: center;
     padding: 24px 0;
 }
+.cabecalho a {
+    text-transform: uppercase;
+    color: #cecece;
+    font-weight: bold;
+    font-size: 24px;
+    text-decoration: none;
+}
 .cabecalho-imagem {
     width: 30%;
 }
@@ -56,6 +63,13 @@ body {
 .personagens-todos {
     display: grid;
     grid-template-columns: 33% 34% 33%;
+}
+.personagens-todos a {
+    text-transform: uppercase;
+    color: #cecece;
+    font-weight: bold;
+    font-size: 20px;
+    text-decoration: none;
 }
 .personagem-div {
     text-align: center;
