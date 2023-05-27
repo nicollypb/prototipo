@@ -5,7 +5,6 @@
 }
 body {
     font-family: 'Montserrat', sans-serif;
-    background-color: linear-gradient(#030B4E,#3B4BD1);
 }
 .cabecalho {
     background-color: #030B4E;
@@ -27,6 +26,7 @@ body {
     font-size: 24px;
 }
 .filme {
+    background-color: linear-gradient(#030B4E,#3B4BD1);
     color: white;
     display: flex;
     justify-content: center;
@@ -48,9 +48,6 @@ body {
 .personagens-titulo {
     padding: 50px 0;
     text-align: center;
-}
-.personagem-div {
-    
 }
 .personagens-todos {
     display: grid;
