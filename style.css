@@ -56,3 +56,11 @@ body {
     display: grid;
     grid-template-columns: 30% 30% 30%;
 }
+.rodape {
+    background: #3b4bd1;
+    text-align: center;
+}
+.rodape-imagem {
+    height: 60px;
+    padding: 12px 0;
+}
