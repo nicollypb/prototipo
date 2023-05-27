@@ -24,11 +24,11 @@ body {
 }
 .cabecalho-item {
     display: inline-block;
-    margin: 0 16;
+    margin: 0 16px;
     font-size: 24px;
 }
 .filme {
-    background-color: linear-gradient(#030B4E,#3B4BD1);
+    background: linear-gradient(#030B4E,#3B4BD1);
     color: white;
     display: flex;
     justify-content: center;
