@@ -59,11 +59,11 @@ body {
 .personagem-div {
     text-align: center;
 }
-.rodape {
+footer {
     background: #3b4bd1;
     text-align: center;
+    padding: 40px 0;
 }
 .rodape-imagem {
     height: 60px;
-    padding: 12px 0;
 }
