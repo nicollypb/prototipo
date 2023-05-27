@@ -4,6 +4,8 @@
     font-family: 'Montserrat', sans-serif;
 }
 body {
+    margin: 0;
+    padding: 0;
     font-family: 'Montserrat', sans-serif;
 }
 .cabecalho {
@@ -52,6 +54,9 @@ body {
 .personagens-todos {
     display: grid;
     grid-template-columns: 30% 30% 30%;
+}
+.personagem-div {
+    text-align: center;
 }
 .rodape {
     background: #3b4bd1;
