@@ -1,8 +1,11 @@
 * {
-margin: 0;
-padding: 0;
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat', sans-serif;
 }
-
+body {
+    font-family: 'Montserrat', sans-serif;
+}
 .cabecalho {
     background-color: #030B4E;
     color: white;
@@ -22,7 +25,7 @@ padding: 0;
     margin: 0 16;
     font-size: 24px;
 }
-.escola {
+.filme {
     background-color: linear-gradient(#030B4E,#3B4BD1);
     color: white;
     display: flex;
@@ -30,12 +33,12 @@ padding: 0;
     align-items: center;
     padding: 24px 0;
 }
-.escola-imagem {
+.imagem-filme {
     width: 25%;
 }
 .filme-conteudo {
     width: 35%;
 }
-.escola-titulo {
+.filme-titulo {
     padding: 24px 0;
 }
