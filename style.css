@@ -19,13 +19,10 @@ body {
 .cabecalho-imagem {
     width: 30%;
 }
-.cabecalho-lista {
-
-}
 .cabecalho-item {
     display: inline-block;
     margin: 0 16px;
-    font-size: 20px;
+    font-size: 24px;
 }
 .filme {
     background: linear-gradient(#030B4E,#17217f);
@@ -33,7 +30,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 24px 0;
+    padding: 50px 0 24px 0;
 }
 .imagem-filme {
     width: 25%;
