@@ -48,6 +48,11 @@ body {
 }
 .filme-titulo {
     padding: 24px 0;
+    text-align: center;
+    font-size: 2em;
+    margin: 0 0 1em;
+    clear: left;
+    font-weight: bold;
 }
 .personagens {
     background: linear-gradient(#17217f,#3B4BD1);;
@@ -59,10 +64,16 @@ body {
     padding: 50px 0;
     text-align: center;
     color: white;
+    text-align: center;
+    font-size: 2em;
+    margin: 0 0 1em;
+    clear: left;
+    font-weight: bold;
 }
 .personagens-todos {
     display: grid;
     grid-template-columns: 33% 34% 33%;
+    color: white;
 }
 .personagem-div {
     text-align: center;
